@@ -29,8 +29,7 @@ $ docker run -it --rm --name my-running-app my-lumen-app sh
 ```
 
 
-
-Using this via docker-compose:
+## Create a `docker-compose` in your project
 
 ```dockerfile
 # docker-compose.yaml
@@ -43,6 +42,11 @@ services:
       - .:/app
     ports:
       - 8000:8000
+```
+
+Then, run the commands to build and run the Docker image:
+```console
+$ docker-compose up --build
 ```
 
 
