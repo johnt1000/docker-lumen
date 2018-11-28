@@ -1,6 +1,6 @@
 # Supported tags and respective `Dockerfile` links
 
-- [`1.0.2`(*1.0.2/Dockerfile*)](https://github.com/johnt1000/docker-lumen/blob/1.0.2/Dockerfile)
+- [`1.0.2`(*1.0/Dockerfile*)](https://github.com/johnt1000/docker-lumen/blob/1.0/Dockerfile)
 
 # About
 
